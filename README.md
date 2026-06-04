@@ -27,6 +27,7 @@ And Many More.
 
 Sections
 
+
 Part1: Responsive Home Page Design.
 
 Part2: Shop Page & Single Product Page.
