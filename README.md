@@ -1,14 +1,14 @@
 # Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScrip
 
-Why This Course?
+This is a foundation level project
 
-Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
+Responsive Ecommerce Website Using HTML CSS & JavaScript.
 
-Completely For Beginners.
+For those that have learn HTML, CSS and Intro to JS.
 
 Multipage Ecommerce Website Project.
 
-Best Beginner Friendly Free Course On YouTube.
+Learner is to be guided and supervised by the tutor.
 
 Learn How to build amazing professional and responsive websites.
 
